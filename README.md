@@ -21,6 +21,10 @@
  <img style = display: "inline_block" align = "left" width = "40%" height="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrandao23&layout=compact&theme=chartreuse-dark"><br><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/>
 <div/>
 
+<div>
+<a href= "https://www.instagram.com/pedrbrandao/" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/pedrobrandaofmm"/> 
+<div/>
+
 <br><br>
  ##
   
