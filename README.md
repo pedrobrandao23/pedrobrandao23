@@ -22,7 +22,7 @@
 <div/>
 
 <div>
-<a href= "https://www.instagram.com/pedrbrandao/" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/pedrobrandaofmm"/> 
+<a href= "https://www.instagram.com/pedrbrandao/" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/pedrobrandaofmm"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 <div/>
 
 <br><br>
