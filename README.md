@@ -4,7 +4,7 @@
 - 🏛 Atualmente sou aluno da **Gama Academy**
 - 💡 Gosto da possibilidade de **criar com linhas de código**
 - 🎨📖⚽ Também gosto de **arte, história, política e esportes**
-- 💭 Sonho em ser **professor** e repassar **conhecimento**
+- 💭 Sonho em ser **professor** e **compartilhar conhecimento**
 
 
 
