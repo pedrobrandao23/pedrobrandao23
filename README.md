@@ -1,6 +1,7 @@
 ### Olá, me chamo Pedro! 👋
 
 - 🚀 Eu sou um **dev em desenvolvimento** 
+- 🧠 Estudo desenvolvimento web em **Javascript** com foco em **frontend**
 - 🏛 Atualmente sou aluno da **Gama Academy**
 - 💡 Gosto da possibilidade de **criar com linhas de código**
 - 🎨📖⚽ Também gosto de **arte, história, política e esportes**
