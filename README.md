@@ -1,4 +1,4 @@
-###  <p style = display: "inline block" align = "center" margin = "0px">Hi, you can call me Pedro! 👋</p>
+<p style = display: "inline block" align = "center" margin = "0px">Hi, you can call me Pedro! 👋</p>
 ##
 
 - 🚀 I'm a **dev in development** 
