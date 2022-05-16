@@ -1,5 +1,5 @@
-<p style = display: "inline block" align = "center" margin = "0px" font-size: 100px >Hi, you can call me Pedro! 👋</p>
-
+<h1 style = display: "inline block" align = "center" margin = "0px" >Hi, you can call me Pedro! 👋</h1>
+<br>
 
 - 🚀 I'm a **dev in development** 
 - 🧠 I'm studying web development with **Javascript** and focusing on **frontend**
