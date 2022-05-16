@@ -1,11 +1,11 @@
 ### Olá, me chamo Pedro! 👋
 
-- 🚀 Eu sou um **dev em desenvolvimento** 
-- 🧠 Estudo desenvolvimento web em **Javascript** com foco em **frontend**
-- 🏛 Atualmente sou aluno da **Gama Academy**
-- 💡 Gosto da possibilidade de **criar com linhas de código**
-- 🎨📖⚽ Também gosto de **arte, história, política e esportes**
-- 💭 Sonho em ser **professor** e **compartilhar conhecimento**
+- 🚀 I'm a **dev in development** 
+- 🧠 I'm studying web development with **Javascript** and focusing on **frontend**
+- 🏛 Currently doing nanodegree at **Gama Academy**
+- 💡 I like the possibility to **create with code lines**
+- 🎨📖⚽ I also like **arts, history, politics and sports**
+- 💭 My dream is to be a **teatcher** and **share knowledge with people**
 
 
 
