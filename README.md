@@ -6,7 +6,7 @@
 - 🏛 Currently doing nanodegree at **Gama Academy**
 - 💡 I like the possibility to **create with code lines**
 - 🎨📖⚽ I also like **arts, history, politics and sports**
-- 💭 My dream is to be a **teatcher** and **share knowledge with people**
+- 💭 My dream is to be a **teacher** and **share knowledge with people**
 
 
 
