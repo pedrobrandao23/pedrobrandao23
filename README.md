@@ -1,4 +1,5 @@
-### Olá, me chamo Pedro! 👋
+###  Hi, you can call me Pedro! 👋
+##
 
 - 🚀 I'm a **dev in development** 
 - 🧠 I'm studying web development with **Javascript** and focusing on **frontend**
