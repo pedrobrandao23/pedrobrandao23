@@ -1,12 +1,12 @@
 <h1 style = display: "inline block" align = "center" margin = "0px" >Hi, you can call me Pedro! 👋</h1>
 <br>
 
-- 🚀 I'm a **dev in development** ;
-- 🧠 I'm studying web development with **Javascript** and focusing on **frontend**;
-- 🏛 Currently doing nanodegree at **Gama Academy**;
-- 💡 I like the possibility to **create with code lines**;
-- 🎨📖⚽ I also like **arts, history, politics and sports**;
-- 💭 My dream is to be a **teacher** and **share knowledge with people**;
+- 🚀 I'm a **dev in development**
+- 🧠 I'm studying web development with **Javascript** and focusing on **Front-end** technologies
+- 🏛 Currently doing nanodegree at **Gama Academy**
+- 💡 I like the possibility to **create with code lines**
+- 🎨📖⚽ I also like **arts, history, politics and sports**
+- 💭 My dream is to be a **teacher** and **share knowledge with people**
 
 
 
