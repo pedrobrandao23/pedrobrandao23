@@ -25,6 +25,7 @@
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+ <img src="https://img.icons8.com/office/16/undefined/react.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
  <img src="https://img.icons8.com/color/48/000000/npm.png"/>
  <img src="https://img.icons8.com/material-outlined/48/undefined/mysql-logo.png"/>
