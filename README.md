@@ -8,12 +8,13 @@
 - 🎨📖⚽ I also like **arts, history, politics and sports**
 - 💭 My dream is to be a **teacher** and **share knowledge with people**
 
-
-
-<br><img src="https://komarev.com/ghpvc/?username=pedrobrandao23&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="pedrobrandao23" /> 
-
-
 ##
+
+<p style = display: "inline_block" align = "center">
+<img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=pedrobrandao23&show_icons=true&theme=chartreuse-dark"><img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobrandao23&theme=chartreuse-dark"> 
+<p/>
+
+#
 
  <div style= display: "inline_block" align = "center">
  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -32,8 +33,8 @@
 <div style = display: "inline block" align = "center" margin = "0px">
 <a href= "https://www.instagram.com/pedrbrandao/" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/pedrobrandaofmm"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 <div/>
+ 
+ <br><img src="https://komarev.com/ghpvc/?username=pedrobrandao23&label=Total%20de%20visualizações&color=0e75b6&style=flat" alt="pedrobrandao23" /> 
 
-<p style = display: "inline_block" align = "center">
-<img align = "left" width = "400px" src="https://github-readme-stats.vercel.app/api?username=pedrobrandao23&show_icons=true&theme=chartreuse-dark"><img width = "400px" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobrandao23&theme=chartreuse-dark"> 
-<p/>
+
  
