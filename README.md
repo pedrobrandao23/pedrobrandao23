@@ -21,7 +21,7 @@
  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
- <img src="https://img.icons8.com/office/40/undefined/react.png"/> <br>
+ <img src="https://img.icons8.com/office/40/undefined/react.png"/>
  <img src="https://img.icons8.com/color/48/undefined/typescript.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
  <img src="https://img.icons8.com/color/48/000000/npm.png"/>
@@ -31,7 +31,7 @@
 
 <div/> <br>
 
-<div style = display: "inline block" align = "center" margin = "0px">
+<div style = display: "inline block" align = "center" margin = 0 margin-top = "30px" >
 <a href= "https://www.instagram.com/pedrbrandao/" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/pedrobrandaofmm"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
 <div/>
  
