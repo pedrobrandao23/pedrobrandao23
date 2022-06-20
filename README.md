@@ -29,7 +29,7 @@
  <img src="https://img.icons8.com/color/48/000000/git.png"/>
  </div>
 
-<div/> <br>
+<div/> <br><br><br>
 
 <div style = display: "inline block" align = "center" margin = 0 margin-top = "30px" >
 <a href= "https://www.instagram.com/pedrbrandao/" target= "_blank"/> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/><a href= "https://www.linkedin.com/in/pedrobrandaofmm"/> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
