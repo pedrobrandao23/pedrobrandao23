@@ -25,8 +25,8 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrobrandao23&show_icons=true&locale=en" alt="pedrobrandao23" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrobrandao23&show_icons=true&locale=en&layout=compact" alt="pedrobrandao23" /></p>
+<br>
 <br>
 <div width="100%">
 <h3 align="left">Connect with me:</h3>
